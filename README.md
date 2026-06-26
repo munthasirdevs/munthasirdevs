@@ -1,0 +1,354 @@
+﻿<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,100:06b6d4&height=200&section=header&text=Munthasir%20Rahman&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,100:06b6d4&height=200&section=header&text=Munthasir%20Rahman&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35" alt="header">
+  </picture>
+</div>
+
+<div align="center">
+  <a href="https://www.munthasir.com/"><img src="https://img.shields.io/badge/Website-18181B?style=for-the-badge&logo=vercel&logoColor=white"></a>
+  <a href="https://github.com/munthasirdevs"><img src="https://img.shields.io/badge/GitHub-18181B?style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="mailto:munthasirrahman@gmail.com"><img src="https://img.shields.io/badge/Email-18181B?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <br>
+  <img src="https://readme-typing-svg.demolab.com?font=Syne&weight=600&size=22&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Founder+%26+Laravel+Engineer;Building+Production-Ready+SaaS;Clean+Architecture+%7C+AI+Integration;Performance-First+Development" alt="Typing SVG">
+</div>
+
+<br>
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fmunthasirdevs&labelColor=%23111827&countColor=%236366F1" alt="Visitors"/>
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
+## About Me
+
+```yaml
+name: Munthasir Rahman
+role: Founder & Laravel Engineer
+location: Bangladesh
+focus:
+  - Production-ready SaaS applications
+  - ERP & CRM systems
+  - AI-powered web platforms
+  - Business process automation
+
+engineering_philosophy:
+  architecture: Clean Architecture + SOLID Principles
+  performance: Caching-first, eager loading, optimized asset pipeline
+  design: Pixel-perfect UI with dark theme and glassmorphism
+  security: 2FA/TOTP, rate limiting, secure auth flows
+  quality: Conventional commits, observer patterns, service layer
+
+current_stack:
+  backend: [PHP, Laravel, Python]
+  frontend: [React, Next.js, Tailwind CSS, GSAP]
+  database: [MySQL]
+  devops: [Linux, Apache, Git, GitHub Actions, Cloudflare]
+  tools: [REST APIs, AI Integration, Figma]
+```
+
+---
+
+## Engineering Philosophy
+
+> "Software should be production-ready from day one. Every commit should move the needle on performance, maintainability, or user experience."
+
+I build systems that scale â€” not just in traffic, but in complexity. Every project follows a consistent architecture:
+
+| Principle | Application |
+|-----------|-------------|
+| **Clean Architecture** | Service layers, repository patterns, separation of concerns |
+| **Performance First** | Eager loading, full-page caching, WebP pipelines, deferred JS |
+| **Security First** | TOTP 2FA, CSRF protection, rate limiting, observer-based validation |
+| **SEO First** | Semantic HTML, system fonts, LQIP images, skeleton loading |
+| **Mobile First** | Responsive breakpoints, touch-optimized interactions, glassmorphism |
+
+---
+
+## Core Expertise
+
+### SaaS & Business Systems
+End-to-end development of project management tools, client dashboards, billing systems, and analytics platforms. Built from the ground up with scalability in mind.
+
+### AI Integration
+Implementing AI layers with intelligent caching, rate limiting, and prompt optimization. Bridging traditional Laravel architecture with modern AI capabilities.
+
+### Admin Dashboard Design
+65+ page admin templates with component-based architecture, dark theme design systems, and zero-dependency frontend stacks.
+
+### Frontend Engineering
+GSAP-powered animations, Tailwind CSS design systems, responsive layouts, and interactive lead qualification engines.
+
+---
+
+## Tech Stack
+
+<div align="center">
+
+### Frontend
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white)
+
+### Backend
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+### Database
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+### DevOps & Tools
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
+
+</div>
+
+---
+
+## Development Principles
+
+```
+â”Œâ”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”
+â”‚              ENGINEERING PRINCIPLES                   â”‚
+â”œâ”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”¤
+â”‚  âœ¦ Clean Architecture  âœ¦ SOLID Principles            â”‚
+â”‚  âœ¦ Performance First   âœ¦ Security First              â”‚
+â”‚  âœ¦ SEO First           âœ¦ Mobile First                â”‚
+â”‚  âœ¦ Responsive Design   âœ¦ Pixel Perfect UI            â”‚
+â”‚  âœ¦ Production Ready    âœ¦ Scalable Systems            â”‚
+â”‚  âœ¦ Maintainable Code   âœ¦ Open Source                 â”‚
+â””â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”˜
+```
+
+---
+
+## Professional Services
+
+| Service | Description |
+|---------|-------------|
+| **SaaS Development** | Full-cycle SaaS platforms from architecture to deployment |
+| **ERP/CRM Systems** | Business process automation with clean architecture |
+| **Admin Dashboards** | 65+ page templates with dark theme design systems |
+| **AI Integration** | AI-powered features for Laravel applications |
+| **Custom Web Apps** | Tailored solutions for unique business needs |
+| **Agency Partner** | White-label development for digital agencies |
+
+---
+
+## Featured Projects
+
+### XenonOS
+> Modern project management system with real-time features, 2FA authentication, billing, analytics, and team collaboration.
+
+```
+Stack: Laravel 12 | Tailwind CSS | MySQL | Sanctum
+```
+
+- TOTP 2FA with Google2FA
+- Live filtering with localStorage persistence
+- Draft auto-save system
+- Analytics & reporting dashboards
+- API & Web controller separation
+- Comprehensive documentation suite
+
+[View Repository](https://github.com/munthasirdevs/XenonOS)
+
+---
+
+### Obsidian Admin Dashboard
+> Production-ready admin dashboard with 65+ pages, dark glassmorphism design, and component-based architecture.
+
+```
+Stack: Tailwind CSS | Vanilla JS | CSS Custom Properties
+```
+
+- 65+ pages across 14 modules
+- Dynamic component loading (sidebar, header, footer)
+- Responsive at all breakpoints
+- Dark theme with glassmorphism
+- Zero dependencies
+- MIT licensed
+
+[View Repository](https://github.com/munthasirdevs/admin-panel)
+
+---
+
+### BlogV1
+> Laravel blog platform with AI integration, WebP image pipeline, and aggressive caching strategy.
+
+```
+Stack: PHP 8.2+ | Laravel | MySQL | Vite | AI Layer
+```
+
+- AI integration with caching, rate limiting, prompt truncation
+- WebP image pipeline with responsive sizes and LQIP
+- Full-page file cache with observer-based invalidation
+- Eager loading eliminating N+1 queries
+- Skeleton loading and deferred JavaScript
+
+[View Repository](https://github.com/munthasirdevs/BlogV1)
+
+---
+
+### Xenon Studios
+> Premium digital agency website with lead qualification engine and revenue-share pricing models.
+
+```
+Stack: HTML5 | Tailwind CSS | GSAP 3.12 | Vanilla JS
+```
+
+- Glassmorphism design system with neon accents
+- Interactive lead qualification with scoring engine
+- GSAP scroll-triggered animations
+- Responsive design with mobile-first approach
+- .htaccess configuration for production
+
+[View Repository](https://github.com/munthasirdevs/XenonStudios)
+
+---
+
+### Multi-Link Opener
+> Clean, privacy-focused bulk URL launcher with sequential and instant modes.
+
+```
+Stack: Vanilla JS | CSS | HTML
+```
+
+- URL validation with JavaScript URL constructor
+- Sequential and instant open modes
+- Real-time progress tracking
+- Session memory for returning users
+- Zero backend, zero tracking, MIT licensed
+
+[View Repository](https://github.com/munthasirdevs/linkOpener)
+
+---
+
+### Portfolio V3
+> Personal portfolio with GSAP animations, project filtering, and contact form.
+
+```
+Stack: HTML5 | CSS3 | GSAP | Lenis
+```
+
+- GSAP scroll-triggered animations
+- Typewriter effect and custom cursor
+- Animated skill progress bars
+- Testimonials slider with autoplay
+- Contact form validation
+
+[View Repository](https://github.com/munthasirdevs/portfolioV3)
+
+---
+
+## GitHub Analytics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=munthasirdevs&show_icons=true&theme=radical&bg_color=0B0F19&title_color=6366F1&icon_color=06B6D4&text_color=DFE2F1&border_color=1F2937&hide_border=true" width="49%" alt="GitHub Stats">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=munthasirdevs&theme=radical&background=0B0F19&stroke=1F2937&ring=6366F1&fire=06B6D4&currStreakNum=DFE2F1&sideNums=DFE2F1&currStreakLabel=6366F1&sideLabels=DFE2F1&dates=64748B&hide_border=true" width="49%" alt="GitHub Streak">
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=munthasirdevs&bg_color=0B0F19&color=6366F1&line=06B6D4&point=FFFFFF&area=true&area_color=6366F1&hide_border=true&custom_title=Contribution%20Graph" width="98%" alt="Activity Graph">
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=munthasirdevs&theme=radical&no-frame=true&no-bg=true&row=1&column=7&margin-w=15&margin-h=15" width="98%" alt="Trophies">
+</div>
+
+---
+
+## Current Focus
+
+```yaml
+building: "Production-ready SaaS applications with Laravel"
+learning:
+  - AI/ML integration patterns
+  - Cloud-native deployment (Docker, Kubernetes)
+  - Advanced system architecture
+  - TypeScript & modern frontend frameworks
+next_milestone: "Launch first open-source SaaS boilerplate"
+```
+
+---
+
+## Open Source
+
+I believe in building in public. My repositories are free to explore, fork, and learn from. I'm working toward contributing more to the Laravel and open-source ecosystem.
+
+---
+
+## Development Workflow
+
+```
+Planning â†’ Architecture â†’ Implementation â†’ Review â†’ Optimization â†’ Deployment
+```
+
+Each project follows a structured workflow:
+1. **Planning**: Define scope, architecture, and tech decisions
+2. **Architecture**: Database design, API contracts, component tree
+3. **Implementation**: Feature-driven with conventional commits
+4. **Review**: Code quality, performance audit, security check
+5. **Optimization**: Caching, asset pipeline, query optimization
+6. **Deployment**: Production-ready configuration, monitoring setup
+
+---
+
+## Toolchain
+
+```
+Editor:     VS Code with Laravel extensions
+Terminal:   PowerShell / Linux Bash
+Version:    Git + GitHub
+Design:     Figma
+Testing:    PHPUnit (in progress)
+CI:         GitHub Actions (planned)
+Deploy:     Linux + Apache + Cloudflare
+```
+
+---
+
+## Let's Collaborate
+
+I'm open to:
+- **SaaS partnerships** - Building products together
+- **Freelance projects** - Custom web applications
+- **Agency referrals** - White-label development
+- **Open source** - Collaborating on meaningful tools
+
+<div align="center">
+  <a href="https://www.munthasir.com/"><img src="https://img.shields.io/badge/Website-6366F1?style=for-the-badge&logo=vercel&logoColor=white"></a>
+  <a href="mailto:munthasirrahman@gmail.com"><img src="https://img.shields.io/badge/Email-06B6D4?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://github.com/munthasirdevs"><img src="https://img.shields.io/badge/GitHub-18181B?style=for-the-badge&logo=github&logoColor=white"></a>
+</div>
+
+---
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,100:6366f1&height=120&section=footer">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,100:6366f1&height=120&section=footer" alt="footer">
+  </picture>
+  <br>
+  <sub>Turning ideas into production-ready software through clean architecture.</sub>
+</div>

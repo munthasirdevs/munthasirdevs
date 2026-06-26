@@ -60,7 +60,7 @@ current_stack:
 
 > "Software should be production-ready from day one. Every commit should move the needle on performance, maintainability, or user experience."
 
-I build systems that scale â€” not just in traffic, but in complexity. Every project follows a consistent architecture:
+I build systems that scale -- not just in traffic, but in complexity. Every project follows a consistent architecture:
 
 | Principle | Application |
 |-----------|-------------|
@@ -123,18 +123,14 @@ GSAP-powered animations, Tailwind CSS design systems, responsive layouts, and in
 
 ## Development Principles
 
-```
-â”Œâ”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”
-â”‚              ENGINEERING PRINCIPLES                   â”‚
-â”œâ”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”¤
-â”‚  âœ¦ Clean Architecture  âœ¦ SOLID Principles            â”‚
-â”‚  âœ¦ Performance First   âœ¦ Security First              â”‚
-â”‚  âœ¦ SEO First           âœ¦ Mobile First                â”‚
-â”‚  âœ¦ Responsive Design   âœ¦ Pixel Perfect UI            â”‚
-â”‚  âœ¦ Production Ready    âœ¦ Scalable Systems            â”‚
-â”‚  âœ¦ Maintainable Code   âœ¦ Open Source                 â”‚
-â””â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”˜
-```
+| | |
+|---|---|
+| **Clean Architecture** | **SOLID Principles** |
+| **Performance First** | **Security First** |
+| **SEO First** | **Mobile First** |
+| **Responsive Design** | **Pixel Perfect UI** |
+| **Production Ready** | **Scalable Systems** |
+| **Maintainable Code** | **Open Source** |
 
 ---
 
@@ -301,7 +297,7 @@ I believe in building in public. My repositories are free to explore, fork, and 
 ## Development Workflow
 
 ```
-Planning â†’ Architecture â†’ Implementation â†’ Review â†’ Optimization â†’ Deployment
+Planning --> Architecture --> Implementation --> Review --> Optimization --> Deployment
 ```
 
 Each project follows a structured workflow:

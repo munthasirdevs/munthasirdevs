@@ -87,32 +87,6 @@ current_stack:
 
 ---
 
-## Development Principles
-
-| | |
-|---|---|
-| **Clean Architecture** | **SOLID Principles** |
-| **Performance First** | **Security First** |
-| **SEO First** | **Mobile First** |
-| **Responsive Design** | **Pixel Perfect UI** |
-| **Production Ready** | **Scalable Systems** |
-| **Maintainable Code** | **Open Source** |
-
----
-
-## Professional Services
-
-| Service | Description |
-|---------|-------------|
-| **SaaS Development** | Full-cycle SaaS platforms from architecture to deployment |
-| **ERP/CRM Systems** | Business process automation with clean architecture |
-| **Admin Dashboards** | 65+ page templates with dark theme design systems |
-| **AI Integration** | AI-powered features for Laravel applications |
-| **Custom Web Apps** | Tailored solutions for unique business needs |
-| **Agency Partner** | White-label development for digital agencies |
-
----
-
 ## GitHub Analytics
 
 <div align="center">

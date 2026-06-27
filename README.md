@@ -54,40 +54,6 @@ current_stack:
   tools: [REST APIs, AI Integration, Figma]
 ```
 
----
-
-## Engineering Philosophy
-
-> "Software should be production-ready from day one. Every commit should move the needle on performance, maintainability, or user experience."
-
-I build systems that scale -- not just in traffic, but in complexity. Every project follows a consistent architecture:
-
-| Principle | Application |
-|-----------|-------------|
-| **Clean Architecture** | Service layers, repository patterns, separation of concerns |
-| **Performance First** | Eager loading, full-page caching, WebP pipelines, deferred JS |
-| **Security First** | TOTP 2FA, CSRF protection, rate limiting, observer-based validation |
-| **SEO First** | Semantic HTML, system fonts, LQIP images, skeleton loading |
-| **Mobile First** | Responsive breakpoints, touch-optimized interactions, glassmorphism |
-
----
-
-## Core Expertise
-
-### SaaS & Business Systems
-End-to-end development of project management tools, client dashboards, billing systems, and analytics platforms. Built from the ground up with scalability in mind.
-
-### AI Integration
-Implementing AI layers with intelligent caching, rate limiting, and prompt optimization. Bridging traditional Laravel architecture with modern AI capabilities.
-
-### Admin Dashboard Design
-65+ page admin templates with component-based architecture, dark theme design systems, and zero-dependency frontend stacks.
-
-### Frontend Engineering
-GSAP-powered animations, Tailwind CSS design systems, responsive layouts, and interactive lead qualification engines.
-
----
-
 ## Tech Stack
 
 <div align="center">

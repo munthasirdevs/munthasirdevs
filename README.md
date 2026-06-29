@@ -27,33 +27,6 @@
 
 ---
 
-## About Me
-
-```yaml
-name: Munthasir Rahman
-role: Founder & Laravel Engineer
-location: Bangladesh
-focus:
-  - Production-ready SaaS applications
-  - ERP & CRM systems
-  - AI-powered web platforms
-  - Business process automation
-
-engineering_philosophy:
-  architecture: Clean Architecture + SOLID Principles
-  performance: Caching-first, eager loading, optimized asset pipeline
-  design: Pixel-perfect UI with dark theme and glassmorphism
-  security: 2FA/TOTP, rate limiting, secure auth flows
-  quality: Conventional commits, observer patterns, service layer
-
-current_stack:
-  backend: [PHP, Laravel, Python]
-  frontend: [React, Next.js, Tailwind CSS, GSAP]
-  database: [MySQL]
-  devops: [Linux, Apache, Git, GitHub Actions, Cloudflare]
-  tools: [REST APIs, AI Integration, Figma]
-```
-
 ## Tech Stack
 
 <div align="center">
@@ -86,6 +59,33 @@ current_stack:
 </div>
 
 ---
+
+## About Me
+
+```yaml
+name: Munthasir Rahman
+role: Founder & Laravel Engineer
+location: Bangladesh
+focus:
+  - Production-ready SaaS applications
+  - ERP & CRM systems
+  - AI-powered web platforms
+  - Business process automation
+
+engineering_philosophy:
+  architecture: Clean Architecture + SOLID Principles
+  performance: Caching-first, eager loading, optimized asset pipeline
+  design: Pixel-perfect UI with dark theme and glassmorphism
+  security: 2FA/TOTP, rate limiting, secure auth flows
+  quality: Conventional commits, observer patterns, service layer
+
+current_stack:
+  backend: [PHP, Laravel, Python]
+  frontend: [React, Next.js, Tailwind CSS, GSAP]
+  database: [MySQL]
+  devops: [Linux, Apache, Git, GitHub Actions, Cloudflare]
+  tools: [REST APIs, AI Integration, Figma]
+```
 
 ## GitHub Analytics
 
@@ -143,18 +143,6 @@ Each project follows a structured workflow:
 6. **Deployment**: Production-ready configuration, monitoring setup
 
 ---
-
-## Toolchain
-
-```
-Editor:     VS Code with Laravel extensions
-Terminal:   PowerShell / Linux Bash
-Version:    Git + GitHub
-Design:     Figma
-Testing:    PHPUnit (in progress)
-CI:         GitHub Actions (planned)
-Deploy:     Linux + Apache + Cloudflare
-```
 
 ---
 

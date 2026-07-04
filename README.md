@@ -90,7 +90,6 @@ current_stack:
 ## GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=munthasirdevs&show_icons=true&theme=radical&bg_color=0B0F19&title_color=6366F1&icon_color=06B6D4&text_color=DFE2F1&border_color=1F2937&hide_border=true" width="49%" alt="GitHub Stats">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=munthasirdevs&theme=radical&background=0B0F19&stroke=1F2937&ring=6366F1&fire=06B6D4&currStreakNum=DFE2F1&sideNums=DFE2F1&currStreakLabel=6366F1&sideLabels=DFE2F1&dates=64748B&hide_border=true" width="49%" alt="GitHub Streak">
 </div>
 

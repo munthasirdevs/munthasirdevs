@@ -101,10 +101,6 @@ current_stack:
 
 <br>
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=munthasirdevs&theme=radical&no-frame=true&no-bg=true&row=1&column=7&margin-w=15&margin-h=15" width="98%" alt="Trophies">
-</div>
-
 ---
 
 ## Current Focus

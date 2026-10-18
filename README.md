@@ -60,22 +60,6 @@
 
 ---
 
-## GitHub Analytics
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=munthasirdevs&theme=radical&background=0B0F19&stroke=1F2937&ring=6366F1&fire=06B6D4&currStreakNum=DFE2F1&sideNums=DFE2F1&currStreakLabel=6366F1&sideLabels=DFE2F1&dates=64748B&hide_border=true" width="49%" alt="GitHub Streak">
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=munthasirdevs&bg_color=0B0F19&color=6366F1&line=06B6D4&point=FFFFFF&area=true&area_color=6366F1&hide_border=true&custom_title=Contribution%20Graph" width="98%" alt="Activity Graph">
-</div>
-
-<br>
-
----
-
 ## Current Focus
 
 ```yaml
@@ -93,24 +77,6 @@ next_milestone: "Launch first open-source SaaS boilerplate"
 ## Open Source
 
 I believe in building in public. My repositories are free to explore, fork, and learn from. I'm working toward contributing more to the Laravel and open-source ecosystem.
-
----
-
-## Development Workflow
-
-```
-Planning --> Architecture --> Implementation --> Review --> Optimization --> Deployment
-```
-
-Each project follows a structured workflow:
-1. **Planning**: Define scope, architecture, and tech decisions
-2. **Architecture**: Database design, API contracts, component tree
-3. **Implementation**: Feature-driven with conventional commits
-4. **Review**: Code quality, performance audit, security check
-5. **Optimization**: Caching, asset pipeline, query optimization
-6. **Deployment**: Production-ready configuration, monitoring setup
-
----
 
 ---
 
